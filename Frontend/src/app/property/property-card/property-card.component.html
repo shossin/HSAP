@@ -1,5 +1,15 @@
     <div class="card" >
-      <img class="propImg" src="../assets/images/house_default.jpg"/>
+      <div class="img-wrapper">
+        <img class="card-img-top propImg" src="../assets/images/house_default.jpg"/>
+        <ul class="list-inline text-center">
+          <li class="list-inline-item">
+            <button class="btn btn-primary">X</button>
+          </li>
+          <li class="list-inline-item">
+            <button class="btn btn-primary">Y</button>
+          </li>
+        </ul>
+      </div>
       <div class="card-body">
         <h5 class="card-title">{{property.Name}}</h5>
         <h6 class="card-subtitle mb-2 text-muted">{{property.Type}}</h6>
