@@ -1,48 +1,63 @@
 [
   {
-    "id": 1,
+    "Id": 1,
+    "SellRent":1,
     "Name": "New windsor house",
     "Type": "House",
-    "Price": 1000
+    "Price": 1000,
+    "Image":"img-1"
   },
   {
-    "id": 2,
+    "Id": 2,
+    "SellRent":1,
     "Name": "New windsor house",
     "Type": "House",
-    "Price": 2000
+    "Price": 2000,
+    "Image":"img-2"
   },
   {
-    "id": 3,
+    "Id": 3,
+    "SellRent":1,
     "Name": "New windsor house",
     "Type": "House",
-    "Price": 3000
+    "Price": 3000,
+    "Image":"img-3"
   },
   {
-    "id": 4,
+    "Id": 4,
+    "SellRent":2,
     "Name": "New windsor house",
     "Type": "House",
-    "Price": 4000
+    "Price": 4000,
+    "Image":"img-4"
   },
   {
-    "id": 5,
+    "Id": 5,
+    "SellRent":1,
     "Name": "New windsor house",
     "Type": "House",
-    "Price": 5000
+    "Price": 5000,
+    "Image":"img-5"
   },
   {
-    "id": 6,
+    "Id": 6,
+    "SellRent":2,
     "Name": "New windsor house",
     "Type": "House",
-    "Price": 6000
+    "Price": 6000,
+    "Image":"img-6"
   },
   {
-    "id": 7,
+    "Id": 7,
+    "SellRent":1,
     "Name": "New windsor house",
     "Type": "House",
-    "Price": 7000
+    "Price": 7000,
+    "Image":"img-7"
   },
   {
-    "id": 8,
+    "Id": 8,
+    "SellRent":1,
     "Name": "New windsor house",
     "Type": "House",
     "Price": 8000
